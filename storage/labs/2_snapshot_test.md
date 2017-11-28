@@ -20,7 +20,7 @@ rm: Failed to move to trash: hdfs://ip-10-0-3-126.ec2.internal:8020/precious: Th
 
 
 [centos@ip-10-0-3-126 ~]$ sudo -u hdfs hdfs dfs -rm  /precious/SEBC.zip
-17/11/28 17:45:50 INFO fs.TrashPolicyDefault: Moved: 'hdfs://ip-10-0-3-126.ec2.internal:8020         /precious/SEBC.zip' to trash at: hdfs://ip-10-0-3-126.ec2.internal:8020/user/hdfs/.Trash/Cur         rent/precious/SEBC.zip1511891150738
+17/11/28 17:45:50 INFO fs.TrashPolicyDefault: Moved: 'hdfs://ip-10-0-3-126.ec2.internal:8020/precious/SEBC.zip' to trash at: hdfs://ip-10-0-3-126.ec2.internal:8020/user/hdfs/.Trash/Current/precious/SEBC.zip1511891150738
 
 
 [centos@ip-10-0-3-126 ~]$ sudo -u hdfs hdfs dfs -ls /precious/.snapshot

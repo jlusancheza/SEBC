@@ -5,8 +5,8 @@
 ### Teragen
 ```
 
-[jlusancheza@ip-10-0-3-126 centos]$  time hadoop jar /opt/cloudera/parcels/CDH/jars/hadoop-m                                                                                                    apreduce-examples-2.6.0-cdh5.12.1.jar  teragen -Dmapreduce.job.maps=4 -Ddfs.blocksize=32m  1                                                                                                    00000000 /user/jlusancheza/teragen-10Gb
-17/11/28 16:59:13 INFO client.RMProxy: Connecting to ResourceManager at ip-10-0-3-126.ec2.in                                                                                                    ternal/10.0.3.126:8032
+[jlusancheza@ip-10-0-3-126 centos]$  time hadoop jar /opt/cloudera/parcels/CDH/jars/hadoop-m                                                                                                    apreduce-examples-2.6.0-cdh5.12.1.jar  teragen -Dmapreduce.job.maps=4 -Ddfs.blocksize=32m  100000000 /user/jlusancheza/teragen-10Gb
+17/11/28 16:59:13 INFO client.RMProxy: Connecting to ResourceManager at ip-10-0-3-126.ec2.internal/10.0.3.126:8032
 17/11/28 16:59:14 INFO terasort.TeraGen: Generating 100000000 using 4
 17/11/28 16:59:14 INFO mapreduce.JobSubmitter: number of splits:4
 17/11/28 16:59:15 INFO mapreduce.JobSubmitter: Submitting tokens for job: job_1511823443481_0002
