@@ -1,5 +1,5 @@
 ```
-[libdefaults]
+[libdefaults] 
 default_realm = EC2.INTERNAL
 dns_lookup_kdc = true
 dns_lookup_realm = false

@@ -1,5 +1,5 @@
 ```
-[kdcdefaults]
+[kdcdefaults] 
  kdc_ports = 88
  kdc_tcp_ports = 88
 

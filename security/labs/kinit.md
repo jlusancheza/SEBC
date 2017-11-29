@@ -1,7 +1,7 @@
 # Kerberos Test
 
 ```
-[centos@ip-10-0-3-79 ~]$ kinit jlusancheza
+[centos@ip-10-0-3-79 ~]$ kinit jlusancheza 
 Password for jlusancheza@EC2.INTERNAL:
 [centos@ip-10-0-3-79 ~]$ hdfs dfs -ls /user/jlusancheza
 Found 7 items
