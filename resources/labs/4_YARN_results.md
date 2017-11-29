@@ -2,7 +2,7 @@
 User: jlusancheza
 ## The fastest
 ```
-Teragen: mapreduce.job.maps=3, mapreduce.job.reduces=5,mapreduce.map.memory.mb=1024
+Terasort: mapreduce.job.maps=3, mapreduce.job.reduces=5,mapreduce.map.memory.mb=1024
 mapreduce.map.java.opts.max.heap=819,mapreduce.reduce.memory.mb=1024,mapreduce.reduce.java.opts.max.heap=819
 
 real    1m23.501s
