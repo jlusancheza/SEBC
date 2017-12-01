@@ -1,6 +1,6 @@
 
 # Setup
-##Cloud provider
+## Cloud provider
 ```
 AWS
 ```
