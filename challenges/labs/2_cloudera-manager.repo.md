@@ -1,5 +1,5 @@
-#list etc/yum.repos.d
-
+# list etc/yum.repos.d
+ 
 ```
 [centos@ip-10-0-3-35 ~]$ ls /etc/yum.repos.d/
 CentOS-Base.repo       CentOS-Media.repo   cloudera-manager.repo
