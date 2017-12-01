@@ -8,7 +8,7 @@ drwxrwxrwx   - mapred hadoop           0 2017-12-01 18:45 /user/history
 drwxrwxr-t   - hive   hive             0 2017-12-01 18:46 /user/hive
 drwxrwxr-x   - hue    hue              0 2017-12-01 18:46 /user/hue
 drwxrwxr-x   - oozie  oozie            0 2017-12-01 18:47 /user/oozie
-drwxr-xr-x   - haley  planets          0 2017-12-01 18:50 /user/saturn
+drwxr-xr-x   - saturn  planets          0 2017-12-01 18:50 /user/saturn
 drwxr-x--x   - spark  spark            0 2017-12-01 18:45 /user/spark
 
 ```
